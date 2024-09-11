@@ -1,7 +1,7 @@
 {
     "accessibility.onboarding.accessibility.button": "Ukroitat netat sukikorami...",
     "accessibility.onboarding.screen.narrator": "Press enter to enable the narrator",
-    "accessibility.onboarding.screen.title": "Welcome to Minecraft!\n\nWould you like to enable the Narrator or visit the Accessibility Settings?",
+    "accessibility.onboarding.screen.title": "Heckitej iz Minecraftu!\n\nWould you like to enable the Narrator or visit the Accessibility Settings?",
     "addServer.add": "Done",
     "addServer.enterIp": "Brekroitarekt valgenaiva",
     "addServer.enterName": "Brekroitareknaiva",
@@ -376,7 +376,7 @@
     "argument.pos2d.incomplete": "Incomplete (expected 2 coordinates)",
     "argument.pos3d.incomplete": "Incomplete (expected 3 coordinates)",
     "argument.range.empty": "Expected value or range of values",
-    "argument.range.ints": "Only whole numbers allowed, not decimals",
+    "argument.range.ints": "Sols jomasil sagil ardonok, nej jeikri ur cjumiju",
     "argument.range.swapped": "Min cannot be bigger than max",
     "argument.resource.invalid_type": "Element '%s' has wrong type '%s' (expected '%s')",
     "argument.resource.not_found": "Can't find element '%s' of type '%s'",
